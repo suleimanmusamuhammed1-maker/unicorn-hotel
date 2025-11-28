@@ -1,0 +1,35 @@
+unicorn-hotel-damaturu/
+│
+├── index.html
+├── style.css
+├── script.js
+├── process_booking.php
+├── booking_form.php
+├── confirmation.php
+│
+├── admin/
+│   ├── index.php
+│   ├── login.php
+│   ├── dashboard.php
+│   ├── manage_rooms.php
+│   ├── manage_bookings.php
+│   └── admin_style.css
+│
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   ├── config.php
+│   └── functions.php
+│
+├── assets/
+│   ├── images/
+│   │   ├── logo.png
+│   │   ├── hero-bg.jpg
+│   │   ├── room1.jpg
+│   │   ├── room2.jpg
+│   │   └── room3.jpg
+│   ├── icons/
+│   └── uploads/
+│
+└── database/
+    └── hotel_db.sql
